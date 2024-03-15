@@ -8,3 +8,6 @@
 [submodule "tweetcheck"]
 	path = tweetcheck
 	url = https://github.com/wurli/tweetcheck
+[submodule "updateme"]
+	path = updateme
+	url = https://github.com/wurli/updateme
